@@ -1,0 +1,20 @@
+{
+  "_comment": "Ana's week. Used by --sample so the Skill can be tried with no Canvas, no calendar and no network. Deliberately messy: back-to-back classes, a work shift, and one evening block she would not want to explain.",
+  "week_start": "2026-10-26",
+  "tz": "America/Phoenix",
+  "level": "busy",
+  "busy": [
+    "mon 09:00-10:15",
+    "mon 10:30-11:45",
+    "mon 14:00-16:00",
+    "tue 09:00-10:15",
+    "tue 13:00-17:00",
+    "wed 09:00-10:15",
+    "wed 10:30-11:45",
+    "wed 18:00-19:00",
+    "thu 09:00-10:15",
+    "thu 13:00-17:00",
+    "fri 09:00-10:15",
+    "fri 12:00-13:00"
+  ]
+}
